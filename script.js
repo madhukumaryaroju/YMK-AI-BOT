@@ -8,8 +8,8 @@ const fileUploadWrapper = document.querySelector(".file-upload-wrapper");
 
 
 //api setup
-const API_KEY = "AIzaSyDbkiQs0D_ZKTSSi5uQt5Qia-kQGqsUan0";
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
+const API_KEY = "********************************************************";
+const API_URL = `********************************************************`;
 
 const userData = {
     message : null,
